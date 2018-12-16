@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Hathor" size="50.000000 66.666664" />
+    <ImageTarget name="senkamanisken" size="50.000000 50.000000" />
+    <ImageTarget name="ptolemaic" size="50.000000 66.666664" />
+    <ImageTarget name="osiris" size="50.000000 69.144341" />
+    <ImageTarget name="King_ptolemaic" size="50.000000 103.030304" />
+    <ImageTarget name="isis" size="50.000000 41.266666" />
+    <ImageTarget name="haremhab" size="50.000000 74.165634" />
+    <ImageTarget name="falcon" size="50.000000 62.932663" />
+    <ImageTarget name="anubis" size="50.000000 37.500000" />
+    <ImageTarget name="tutmask" size="40.000000 55.040001" />
+  </Tracking>
+</QCARConfig>
